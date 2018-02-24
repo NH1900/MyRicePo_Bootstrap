@@ -69,3 +69,9 @@ body{
     min-height: 300px;
     max-height: 300px;
 }
+
+#carousel-button{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
